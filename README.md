@@ -16,7 +16,6 @@
 # Clustering-Analysis: (https://github.com/nitinkumar018/Clustering-Analysis)
 # K-means-clustering-with-PCA-data: (https://github.com/nitinkumar018/K-means-clustering-with-PCA-data)
 # Principal-Component-Analysis_PCA: (https://github.com/nitinkumar018/Principal-Component-Analysis_PCA)
-# K-means-clustering-with-PCA-data: (https://github.com/nitinkumar018/K-means-clustering-with-PCA-data)
 # Association-Rule: (https://github.com/nitinkumar018/Association-Rule)
 # Recommendation-System_cosine-similarity: (https://github.com/nitinkumar018/Recommendation-System_cosine-similarity)
 # Isolation-Forest-algorithm- : (https://github.com/nitinkumar018/EDA2-Isolation-Forest-algorithm-)
