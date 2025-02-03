@@ -1,4 +1,4 @@
-# Data Science Assignments: 
+# Data Science Assignments:
 
 # basic-statistics: (https://github.com/nitinkumar018/basic-statistics)
 # probability-and-statistics: (https://github.com/nitinkumar018/probability-and-statistics)
